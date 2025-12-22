@@ -7,7 +7,7 @@
 
 ### Introduction
 
-A protocol library for Minecraft that supports multiple versions. (Currently Bedrock Edition only)
+A protocol library for Minecraft that 1supports multiple versions. (Currently Bedrock Edition only)
 
 ### Links
 
